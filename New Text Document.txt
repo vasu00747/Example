@@ -1,0 +1,11 @@
+public class student{
+int a=10;
+public void display
+{
+return a;
+}
+public Static void main(String args[])
+{
+Student s=new Student();
+s.display();
+}}
